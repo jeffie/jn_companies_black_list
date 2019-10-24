@@ -8,7 +8,7 @@
 ## 关于怎么提交 ##
 
 - 在issue中进行说明
-- 通过邮件toutoudnf@gmail.com
+- 通过[在线表单](https://shimo.im/forms/w8QrjRyGCrhkvhr3/fill)
 - 提交PR
 
 提交的时候建议的内容包含：
